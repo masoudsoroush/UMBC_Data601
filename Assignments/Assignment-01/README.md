@@ -23,6 +23,8 @@ Our study reaches the following conclusions:
 2. We found that among the above parameters, GDP per Capita is the most influential factor for a having higher Happiness Score.
 3. We found that among the above parameters, generosity is the least influential factor for a having higher Happiness Score.
 4. We found that there exists a strong positive correlation between GDP per Capita of a nation and the Health of its citizens. That is, the wealthier a country is, the healthier its citizens will be.
+5. The analysis shows that the data supports a positive correlation between GDP per Capita of a nation and the Freedom of its citizens. However, the correlation is not as strong as the correlation between GDP per Capita and the Health. 
+6. We surprisingly found that the data does not support any correlation between GDP per Capita of a nation and the Generosity of its citizens! Therefore, the citizens of wealthier countries do not necessarily seem to be more generous than the citizens of less wealthier countries.
 
 ## Limitations
 The facts we found in our study are subject to the following (and possibly more) limitations:
