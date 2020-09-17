@@ -1,20 +1,20 @@
 # A Report on World Happiness
 ## Summary
-The World Happiness Report (https://worldhappiness.report/) has conducted numerous surveys to quantify and find the state of happiness in the world. Moreover, the World Happiness Report uses the data of Gallup World Poll for its rankings among countries. In thier studies and surveys of the World Happiness Report, 158 countries have participated. In our study, we will focus on the status of the world happiness for 5 consecutive years 2015-2019. Among the so many considered parameters in WHR, we will focus only on a small subset of the most infuential parameters, namely
+The World Happiness Report (https://worldhappiness.report/) has conducted numerous surveys to quantify and to find the state of happiness in the world. The World Happiness Report partially uses the data of Gallup World Poll for its rankings among countries. In thier studies and surveys of the World Happiness Report, 158 countries have participated. In our project, we will focus on the status of the world happiness for 5 consecutive years 2015-2019. Among the so many considered parameters in WHR, we will only focus on a small subset of the most infuential parameters, namely
 1. GDP per Capita
 2. Health
 3. Freedom
 4. Generosity
 5. Corruption
 
-We will look for the correlation between the Happiness Score and the above parameters.
+We will look for correlations between the Happiness Score and the above parameters.
 
 ## Goals
-In our study, we will specifically look for conceivable answers for the following questions:
+In our study, we will specifically look for conceivable answers to the following questions:
 1. How is each one of the above parameters correlated with the Happiness Score?
 2. Which of the above paratmeters is the most influential on the Happiness Score?
 3. Which of the above parameters is the least relevant factor for the Happiness Score? 
-4. Are there any correlation between the above 5 parameters? For instance, is there a relation between GDP per Capita and Health? Are citizens of wealthier countries expected to be healthier than the citizens of less wealthier countries? How about GDP per Capita and Generosity? Are citizens of wealthier countries expected to be more generous? How about GDP per Capita and Corruption? Are wealthier countries supposed to have a lower level of corruption? Is there any correlation between the wealth (measured by GDP per Capita) of country and the level of social and individual freedom?  
+4. Are there any correlations between the above 5 parameters? For instance, is there a relation between GDP per Capita and Health? Are citizens of wealthier countries expected to be healthier than the citizens of less wealthier countries? How about GDP per Capita and Generosity? Are citizens of wealthier countries expected to be more generous? How about GDP per Capita and Corruption? Are wealthier countries supposed to have a lower level of corruption? Is there any correlation between the wealth (measured by GDP per Capita) of a country and its level of social and individual freedom?  
 
 
 ## Conclusions
