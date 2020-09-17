@@ -1,4 +1,6 @@
 # A Report on World Happiness
+![](Happiness.png)
+
 ## Summary
 The World Happiness Report (https://worldhappiness.report/) has conducted numerous surveys to quantify and to find the state of happiness in the world. The World Happiness Report partially uses the data of Gallup World Poll for its rankings among countries. In thier studies and surveys of the World Happiness Report, 158 countries have participated. In our project, we will focus on the status of the world happiness for 5 consecutive years 2015-2019. Among the so many considered parameters in WHR, we will only focus on a small subset of the most infuential parameters, namely
 1. GDP per Capita
