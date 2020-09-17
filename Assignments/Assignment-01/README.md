@@ -4,8 +4,8 @@ The World Happiness Report (https://worldhappiness.report/) has conducted numero
 1. GDP per Capita
 2. Health
 3. Freedom
-4. Corruption
-5. Generosity
+4. Generosity
+5. Corruption
 
 We will look for the correlation between the Happiness Score and the above parameters.
 
@@ -18,12 +18,13 @@ In our study, we will specifically look for conceivable answers for the followin
 
 
 ## Conclusions
-
+Our study reaches the following conclusions:
+1. All the above 5 parameters are positively correlated with the Happiness Score. The existence of a postive correlation between the first 4 parameters (GDP per Capita, Health, Freedom, and Generosity) is in accordance with the intuition. However, the existence of a postive correlation between Corruption and the Happiness Score is counterintuitive. 
 
 ## Limitations
 The facts we found in our study are subject to the following (and possibly more) limitations:
 1. Our study concerns a very short period of time (2015-2019). Considering a longer period, some of the above conclusions may or may not change.
-2. In our study, we concentrated on only five relevant parameters. Enlarging the set of relevant parameters (e.g. including family status, social support, and etc.) can enrich the findings of this study.
+2. In our study, we concentrated on only five relevant parameters. Enlarging the set of relevant parameters (e.g. including family status, social support, law enforcement and etc.) can enrich the findings of this study.
 
 ## References
 1. CSV source files: https://www.kaggle.com/unsdsn/world-happiness
