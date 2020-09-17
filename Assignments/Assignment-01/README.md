@@ -28,6 +28,9 @@ Our study reaches the following conclusions:
 5. The analysis shows that the data supports a positive correlation between GDP per Capita of a nation and the Freedom of its citizens. However, the correlation is not as strong as the correlation between GDP per Capita and the Health. 
 6. We surprisingly found that the data does not support any correlation between GDP per Capita of a nation and the Generosity of its citizens! Therefore, the citizens of wealthier countries do not necessarily seem to be more generous than the citizens of less wealthier countries.
 
+## Data Source
+We use the csv files recording the reports of WHR (World Happiness Report) for years 2015-2019. These five files are publicly available at Kagge (https://www.kaggle.com/unsdsn/world-happiness). Each csv file has 158 rows (corresponding to the 158 participating countries) and between 10 to 15 columns representing the parameters used to quantify happiness. Unfortunately, the parameters do not stay constant from year to year, and only a subset of all considred parameters are in common in all the 5 consecutive years.
+
 ## Limitations
 The facts we found in our study are subject to the following (and possibly more) limitations:
 1. Our study concerns a very short period of time (2015-2019). Considering a longer period, some of the above conclusions may or may not change.
