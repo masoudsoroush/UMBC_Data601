@@ -14,6 +14,7 @@ In our study, we will specifically look for conceivable answers for the followin
 1. How is each one of the above parameters correlated with the Happiness Score?
 2. Which of the above paratmeters is the most influential on the Happiness Score?
 3. Which of the above parameters is the least relevant factor for the Happiness Score? 
+4. Are there any correlation between the above 5 parameters? For instance, is there a relation between GDP per Capita and Health? Are citizens of wealthier countries expected to be healthier than the citizens of less wealthier countries? How about GDP per Capita and Generosity? Are citizens of wealthier countries expected to be more generous? How about GDP per Capita and Corruption? Are wealthier countries supposed to have a lower level of corruption? Is there any correlation between the wealth (measured by GDP per Capita) of country and the level of social and individual freedom?  
 
 
 ## Conclusions
