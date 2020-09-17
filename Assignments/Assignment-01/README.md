@@ -19,7 +19,7 @@ In our study, we will specifically look for conceivable answers for the followin
 
 ## Conclusions
 Our study reaches the following conclusions:
-1. All the above 5 parameters are positively correlated with the Happiness Score. The existence of a postive correlation between the first 4 parameters (GDP per Capita, Health, Freedom, and Generosity) is in accordance with the intuition. However, the existence of a postive correlation between Corruption and the Happiness Score is counterintuitive. 
+1. All the above 5 parameters are positively correlated with the Happiness Score. The existence of a postive correlation between the first 4 parameters (GDP per Capita, Health, Freedom, and Generosity) is in accordance with the intuition. However, the existence of a postive correlation between the Corruption level and the Happiness Score is counterintuitive. 
 
 ## Limitations
 The facts we found in our study are subject to the following (and possibly more) limitations:
