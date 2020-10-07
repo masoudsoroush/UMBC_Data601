@@ -1,0 +1,251 @@
+,Movie_Name,Movie_url,Genre,Movie_Year,Box_Office_(USD),Box_Office_(USD_2020),Critic_Ratings,Audience_Ratings,Runtime_(min)
+0,The Godfather,http://www.rottentomatoes.com/m/12911,"drama,crime",1972,134800000,838456000,98.0,98.0,177.0
+1,12 Angry Men,http://www.rottentomatoes.com/m/18108,drama,1957,57020001,527435009,100.0,97.0,95.0
+2,The Godfather: Part II,http://www.rottentomatoes.com/m/12926,"drama,crime",1974,57020001,300495405,98.0,97.0,200.0
+3,Seven Samurai,http://www.rottentomatoes.com/m/16992,action,1954,271700,2624622,100.0,97.0,208.0
+4,Schindler's List,http://www.rottentomatoes.com/m/12903,"history,drama",1993,96600000,173880000,97.0,97.0,195.0
+5,The Shawshank Redemption,http://www.rottentomatoes.com/m/12989,drama,1994,27300000,47775000,91.0,98.0,142.0
+6,City Lights,http://www.rottentomatoes.com/m/17880,"romance,comedy,drama",1931,18200,311220,98.0,96.0,87.0
+7,"The Good, the Bad and the Ugly",http://www.rottentomatoes.com/m/13308,western,1966,57020001,457300408,97.0,97.0,161.0
+8,Pulp Fiction,http://www.rottentomatoes.com/m/13863,"drama,crime",1994,57020001,99785002,92.0,96.0,153.0
+9,Psycho,http://www.rottentomatoes.com/m/12879,"mysteryandthriller,horror",1960,57020001,500635609,96.0,95.0,109.0
+10,Harakiri,http://www.rottentomatoes.com/m/18354,drama,1962,57020001,490942209,100.0,97.0,135.0
+11,Modern Times,http://www.rottentomatoes.com/m/17958,comedy,1936,163200,3051840,100.0,95.0,89.0
+12,The Lord of the Rings: The Return of the King,http://www.rottentomatoes.com/m/10156,"fantasy,adventure",2003,377800000,532698000,93.0,88.0,200.0
+13,The Dark Knight,http://www.rottentomatoes.com/m/769959054,"adventure,action,fantasy",2008,2000000,2420000,94.0,94.0,152.0
+14,Parasite,The url does not exist!,"adventure,action,fantasy",2019,2000000,2040000,94.0,94.0,152.0
+15,Spirited Away,http://www.rottentomatoes.com/m/10065,"fantasy,adventure,animation",2001,1000000,1470000,97.0,96.0,125.0
+16,Casablanca,http://www.rottentomatoes.com/m/10056,drama,1942,57020001,909469016,99.0,95.0,102.0
+17,Rear Window,http://www.rottentomatoes.com/m/10046,mysteryandthriller,1954,1600000,15456000,99.0,95.0,112.0
+18,Goodfellas,http://www.rottentomatoes.com/m/12924,"crime,drama",1990,42600000,84774000,96.0,97.0,146.0
+19,Tokyo Story,http://www.rottentomatoes.com/m/770692867,drama,1953,57020001,554804610,100.0,93.0,134.0
+20,Singin' in the Rain,http://www.rottentomatoes.com/m/9924,"musical,comedy",1952,23900,234459,100.0,95.0,102.0
+21,Ikiru,http://www.rottentomatoes.com/m/10866,drama,1952,55200,541512,98.0,97.0,143.0
+22,It's a Wonderful Life,http://www.rottentomatoes.com/m/18062,"comedy,drama,other",1946,57020001,760076613,94.0,95.0,129.0
+23,The Great Dictator,http://www.rottentomatoes.com/m/9962,comedy,1940,57020001,1058861419,93.0,95.0,128.0
+24,Sunset Boulevard,http://www.rottentomatoes.com/m/17003,drama,1950,57020001,614675611,99.0,95.0,110.0
+25,One Flew Over the Cuckoo's Nest,http://www.rottentomatoes.com/m/12965,drama,1975,57020001,275406605,94.0,96.0,133.0
+26,"Sherlock, Jr.",http://www.rottentomatoes.com/m/238425545,"drama,comedy",1924,57020001,866704015,96.0,95.0,126.0
+27,Children of Paradise,http://www.rottentomatoes.com/m/19218,romance,1945,31900,460636,98.0,96.0,195.0
+28,The Empire Strikes Back,http://www.rottentomatoes.com/m/11470,"action,scifi,fantasy,adventure",1980,291400000,917910000,94.0,97.0,124.0
+29,The Lord of the Rings: The Fellowship of the Ring,http://www.rottentomatoes.com/m/12769,"fantasy,adventure",2001,315500000,463785000,91.0,95.0,178.0
+30,Paths of Glory,http://www.rottentomatoes.com/m/17114,"war,drama",1957,57020001,527435009,95.0,95.0,86.0
+31,The Lord of the Rings: The Two Towers,http://www.rottentomatoes.com/m/10513,"fantasy,adventure",2002,342600000,493344000,95.0,95.0,179.0
+32,The Best of Youth,http://www.rottentomatoes.com/m/277029659,drama,2003,250400,353064,94.0,98.0,358.0
+33,Metropolis,http://www.rottentomatoes.com/m/18225,"scifi,drama",1927,1200000,17928000,97.0,92.0,123.0
+34,All About Eve,http://www.rottentomatoes.com/m/17714,drama,1950,10200,109956,99.0,94.0,138.0
+35,Le Trou,http://www.rottentomatoes.com/m/770672957,"fantasy,animation",1960,57020001,500635609,94.0,97.0,126.0
+36,Dr. Strangelove Or: How I Learned to Stop Worrying and Love the Bomb,http://www.rottentomatoes.com/m/12368,comedy,1964,57020001,477827608,98.0,94.0,93.0
+37,The Kid,http://www.rottentomatoes.com/m/265820930,"drama,comedy",1921,57020001,827930415,100.0,95.0,60.0
+38,Apocalypse Now,http://www.rottentomatoes.com/m/13092,"war,drama",1979,78800000,282104000,98.0,94.0,153.0
+39,Bicycle Thieves,http://www.rottentomatoes.com/search/?search=Bicycle+Thieves,The genre is not known!,1948,57020001,614675611,95.0,93.0,126.0
+40,Vertigo,http://www.rottentomatoes.com/m/22490,mysteryandthriller,1958,1800000,16182000,94.0,93.0,128.0
+41,Portrait of a Lady on Fire,The url does not exist!,mysteryandthriller,2019,1800000,1836000,94.0,93.0,128.0
+42,Citizen Kane,http://www.rottentomatoes.com/m/10074,drama,1941,977300,17278664,100.0,90.0,119.0
+43,Witness for the Prosecution,http://www.rottentomatoes.com/m/18323,"mysteryandthriller,drama,crime",1957,57020001,527435009,100.0,95.0,114.0
+44,High and Low,http://www.rottentomatoes.com/m/20610,"drama,crime",1963,57020001,484099808,95.0,95.0,142.0
+45,Double Indemnity,http://www.rottentomatoes.com/m/17019,"drama,crime",1944,57020001,842185415,97.0,95.0,106.0
+46,The Silence of the Lambs,http://www.rottentomatoes.com/m/16286,"crime,drama,mysteryandthriller",1991,130700000,249637000,96.0,95.0,119.0
+47,WALL·E,http://www.rottentomatoes.com/m/770671491,"animation,adventure,comedy,kidsandfamily,scifi",2008,57020001,68994201,95.0,90.0,97.0
+48,Ran,http://www.rottentomatoes.com/m/15203,"history,drama",1985,454000,1098680,97.0,95.0,160.0
+49,Rashomon,http://www.rottentomatoes.com/m/17052,drama,1950,57020001,614675611,98.0,93.0,88.0
+50,Alien,http://www.rottentomatoes.com/m/13492,"scifi,horror",1979,57020001,204131604,98.0,94.0,117.0
+51,The Apartment,http://www.rottentomatoes.com/m/18339,"drama,comedy",1960,57020001,500635609,93.0,94.0,125.0
+52,Saving Private Ryan,http://www.rottentomatoes.com/m/13217,"history,drama,war",1998,57020001,90661802,93.0,95.0,169.0
+53,M,http://www.rottentomatoes.com/search/?search=M,The genre is not known!,1931,57020001,975042017,95.0,93.0,126.0
+54,Lawrence of Arabia,http://www.rottentomatoes.com/m/10348,"history,biography,drama,adventure",1962,6000000,51660000,98.0,93.0,216.0
+55,A Man Escaped,http://www.rottentomatoes.com/m/19305,action,1956,57020001,545111210,100.0,93.0,102.0
+56,Toy Story 3,http://www.rottentomatoes.com/m/770672122,"fantasy,animation,kidsandfamily,adventure,comedy",2010,415000000,493850000,98.0,89.0,102.0
+57,Star Wars,http://www.rottentomatoes.com/m/11292,"action,scifi,fantasy,adventure",1977,57020001,244615804,92.0,96.0,121.0
+58,A Separation,http://www.rottentomatoes.com/m/771237246,drama,2011,331700,384772,99.0,92.0,123.0
+59,The Pianist,http://www.rottentomatoes.com/m/14246,"war,history,drama",2002,32500000,46800000,95.0,96.0,148.0
+60,A Brighter Summer Day,http://www.rottentomatoes.com/m/731000969,drama,1991,57020001,108908202,100.0,94.0,240.0
+61,City of God,http://www.rottentomatoes.com/m/12927,"drama,crime",2002,7600000,10944000,91.0,97.0,131.0
+62,Woman in the Dunes,http://www.rottentomatoes.com/m/21550,drama,1964,57020001,477827608,100.0,93.0,125.0
+63,Back to the Future,http://www.rottentomatoes.com/m/23532,"comedy,scifi,fantasy,adventure",1985,247000,597740,96.0,94.0,116.0
+64,Spider-Man: Into the Spider-Verse,The url does not exist!,"comedy,scifi,fantasy,adventure",2018,247000,256880,96.0,94.0,116.0
+65,The Lives of Others,http://www.rottentomatoes.com/m/371352714,"drama,history",2006,11300000,14577000,93.0,96.0,137.0
+66,Taxi Driver,http://www.rottentomatoes.com/m/16625,drama,1976,57020001,260581405,96.0,93.0,113.0
+67,Toy Story,http://www.rottentomatoes.com/m/9559,"animation,fantasy,adventure,comedy,kidsandfamily",1995,57020001,97504202,100.0,92.0,80.0
+68,Cinema Paradiso,http://www.rottentomatoes.com/m/14337,drama,1988,9100000,20020000,90.0,97.0,123.0
+69,The Lion King,http://www.rottentomatoes.com/m/9385,"musical,adventure,animation,kidsandfamily",1994,422800000,739900000,93.0,93.0,87.0
+70,Once Upon a Time in the West,http://www.rottentomatoes.com/m/10196,western,1968,57020001,425939407,95.0,95.0,165.0
+71,Fanny & Alexander,http://www.rottentomatoes.com/m/13375,drama,1982,57020001,153383803,100.0,94.0,188.0
+72,Whiplash,http://www.rottentomatoes.com/m/771371883,"drama,music",2014,13200000,14520000,94.0,94.0,106.0
+73,Pather Panchali,http://www.rottentomatoes.com/m/20091,drama,1955,57020001,553094010,98.0,94.0,126.0
+74,Sansho the Bailiff,http://www.rottentomatoes.com/m/280170186,"history,drama",1954,57020001,550813210,100.0,95.0,125.0
+75,The 400 Blows,http://www.rottentomatoes.com/m/22253,"drama,crime",1959,57020001,509188609,100.0,94.0,93.0
+76,The World of Apu,http://www.rottentomatoes.com/m/770674866,drama,1959,57020001,509188609,96.0,95.0,103.0
+77,The Treasure of the Sierra Madre,http://www.rottentomatoes.com/m/18253,"adventure,drama,western",1948,57020001,614675611,100.0,93.0,124.0
+78,Some Like It Hot,http://www.rottentomatoes.com/m/18189,comedy,1959,57020001,509188609,95.0,94.0,120.0
+79,Come and See,http://www.rottentomatoes.com/m/22185,drama,1985,70800,171336,97.0,96.0,142.0
+80,The Passion of Joan of Arc,http://www.rottentomatoes.com/m/18673,"history,drama,biography",1928,6400,97280,98.0,93.0,77.0
+81,North by Northwest,http://www.rottentomatoes.com/m/18639,mysteryandthriller,1959,57020001,509188609,99.0,94.0,136.0
+82,The Gold Rush,http://www.rottentomatoes.com/m/21401,"adventure,drama,comedy",1925,57020001,846747015,100.0,93.0,82.0
+83,My Neighbor Totoro,http://www.rottentomatoes.com/m/17541,"fantasy,anime",1988,57020001,125444002,94.0,94.0,87.0
+84,Yojimbo,http://www.rottentomatoes.com/m/17236,"adventure,comedy",1961,57020001,495503809,95.0,96.0,110.0
+85,Three Colors: Red,http://www.rottentomatoes.com/m/266746773,drama,1994,858400,1502200,100.0,95.0,99.0
+86,Princess Mononoke,http://www.rottentomatoes.com/m/10144,"adventure,fantasy,anime",1997,57020001,92372402,93.0,94.0,133.0
+87,Andrei Rublev,http://www.rottentomatoes.com/m/19176,biography,1966,101400,813228,95.0,94.0,165.0
+88,Nights of Cabiria,http://www.rottentomatoes.com/m/19777,drama,1957,820700,7591475,97.0,94.0,110.0
+89,Satantango,http://www.rottentomatoes.com/m/359854872,"drama,comedy",1994,57020001,99785002,100.0,93.0,450.0
+90,Ugetsu,http://www.rottentomatoes.com/m/18097,fantasy,1953,57020001,554804610,100.0,94.0,96.0
+91,Once Upon a Time in America,http://www.rottentomatoes.com/m/13113,"drama,crime",1984,57020001,142550002,87.0,93.0,139.0
+92,The General,http://www.rottentomatoes.com/m/534309484,"adventure,action,comedy",1926,57020001,837053615,93.0,92.0,83.0
+93,The Third Man,http://www.rottentomatoes.com/m/18250,mysteryandthriller,1949,447000,4881240,99.0,93.0,104.0
+94,Eternal Sunshine of the Spotless Mind,http://www.rottentomatoes.com/m/12860,"scifi,romance",2004,34100000,47058000,93.0,94.0,108.0
+95,Inception,http://www.rottentomatoes.com/m/770805418,"scifi,mysteryandthriller,action",2010,292600000,348194000,87.0,91.0,148.0
+96,I Am Cuba,http://www.rottentomatoes.com/m/19394,drama,1964,57020001,477827608,100.0,92.0,141.0
+97,Stalker,http://www.rottentomatoes.com/m/18852,"scifi,adventure",1979,258400,925072,100.0,93.0,163.0
+98,Army of Shadows,http://www.rottentomatoes.com/search/?search=Army+of+Shadows,The genre is not known!,1969,57020001,403701607,95.0,93.0,126.0
+99,Sunrise: A Song of Two Humans,http://www.rottentomatoes.com/m/98818519,"drama,romance",1927,57020001,851878815,98.0,92.0,110.0
+100,Das Boot,http://www.rottentomatoes.com/m/17965,"war,drama",1981,57020001,163077203,98.0,96.0,150.0
+101,To Be or Not to Be,http://www.rottentomatoes.com/m/770670964,comedy,1942,57020001,909469016,98.0,93.0,99.0
+102,Late Spring,http://www.rottentomatoes.com/m/98817247,drama,1949,57020001,622658411,100.0,92.0,107.0
+103,Up,http://www.rottentomatoes.com/m/770671912,"adventure,comedy,animation,kidsandfamily",2009,57020001,68994201,98.0,90.0,89.0
+104,Scenes From a Marriage,http://www.rottentomatoes.com/m/230386842,drama,1973,57020001,333567006,90.0,95.0,168.0
+105,The Circus,http://www.rottentomatoes.com/m/22635,comedy,1928,57020001,866704015,96.0,94.0,72.0
+106,Chinatown,http://www.rottentomatoes.com/m/12883,"drama,crime",1974,57020001,300495405,99.0,93.0,131.0
+107,It's Such a Beautiful Day,The url does not exist!,"drama,crime",2012,57020001,64432601,99.0,93.0,131.0
+108,Raiders of the Lost Ark,http://www.rottentomatoes.com/m/23529,"action,adventure",1981,248200000,709852000,95.0,96.0,115.0
+109,Man With a Movie Camera,http://www.rottentomatoes.com/m/20270,documentary,1929,57020001,866704015,97.0,88.0,69.0
+110,Time of the Gypsies,http://www.rottentomatoes.com/m/770797528,drama,1988,183300,403260,100.0,97.0,136.0
+111,The Battle of Algiers,http://www.rottentomatoes.com/m/133039722,"war,history,drama",1966,55900,448318,99.0,95.0,125.0
+112,La Jetée,http://www.rottentomatoes.com/search/?search=La+Jet%c3%a9e,The genre is not known!,1962,57020001,490942209,95.0,93.0,126.0
+113,Persona,http://www.rottentomatoes.com/m/18771,drama,1966,57020001,457300408,90.0,94.0,81.0
+114,Ordet,http://www.rottentomatoes.com/m/238431506,drama,1955,57020001,553094010,100.0,92.0,125.0
+115,Coco,The url does not exist!,drama,2017,57020001,60441201,100.0,92.0,125.0
+116,The Wages of Fear,http://www.rottentomatoes.com/m/19770,mysteryandthriller,1953,57020001,554804610,100.0,95.0,156.0
+117,Inside Out,http://www.rottentomatoes.com/m/771306118,"fantasy,comedy,animation,kidsandfamily",2015,2000000,2200000,98.0,89.0,95.0
+118,The Seventh Seal,http://www.rottentomatoes.com/m/341817599,"fantasy,drama",1957,57020001,527435009,93.0,93.0,96.0
+119,Mirror,http://www.rottentomatoes.com/m/19648,"drama,biography",1975,57020001,275406605,100.0,92.0,108.0
+120,Amadeus,http://www.rottentomatoes.com/m/10286,"drama,history,biography",1984,57020001,142550002,93.0,95.0,158.0
+121,Finding Nemo,http://www.rottentomatoes.com/m/9377,"comedy,adventure,kidsandfamily,animation",2003,57020001,80398201,99.0,88.0,100.0
+122,Wild Strawberries,http://www.rottentomatoes.com/m/22630,drama,1957,57020001,527435009,95.0,94.0,90.0
+123,Rififi,http://www.rottentomatoes.com/m/19201,"mysteryandthriller,drama,crime",1955,57200,554840,92.0,95.0,120.0
+124,Memento,http://www.rottentomatoes.com/m/13052,mysteryandthriller,2000,25500000,38505000,93.0,94.0,116.0
+125,The Sting,http://www.rottentomatoes.com/m/22491,"drama,comedy",1973,57020001,333567006,94.0,95.0,129.0
+126,Terminator 2: Judgment Day,http://www.rottentomatoes.com/m/14016,"scifi,action",1991,552800,1055848,93.0,94.0,136.0
+127,Gone With the Wind,http://www.rottentomatoes.com/m/9818,"romance,history,drama",1939,198700000,3715690000,91.0,92.0,222.0
+128,Yi Yi,The url does not exist!,"romance,history,drama",2000,198700000,300037000,91.0,92.0,222.0
+129,Grave of the Fireflies,http://www.rottentomatoes.com/m/21313,"war,drama,anime",1988,57020001,125444002,100.0,95.0,88.0
+130,La Strada,http://www.rottentomatoes.com/m/19332,drama,1954,57020001,550813210,97.0,93.0,115.0
+131,L.A. Confidential,http://www.rottentomatoes.com/m/12956,"drama,crime",1997,64600000,104652000,99.0,94.0,136.0
+132,American Beauty,http://www.rottentomatoes.com/m/12878,"drama,comedy",1999,130100000,202956000,87.0,93.0,122.0
+133,Umberto D.,http://www.rottentomatoes.com/m/19664,drama,1952,74300,728883,97.0,93.0,91.0
+134,2001: A Space Odyssey,http://www.rottentomatoes.com/m/9917,scifi,1968,1300000,9711000,92.0,89.0,139.0
+135,The Night of the Hunter,http://www.rottentomatoes.com/m/18249,mysteryandthriller,1955,57020001,553094010,99.0,90.0,92.0
+136,Aliens,http://www.rottentomatoes.com/m/13240,"scifi,action,horror",1986,77600000,183912000,97.0,94.0,137.0
+137,The Shop Around the Corner,http://www.rottentomatoes.com/m/18285,romance,1940,57020001,1058861419,100.0,91.0,97.0
+138,The Matrix,http://www.rottentomatoes.com/m/12897,"action,scifi",1999,171400000,267384000,88.0,88.0,136.0
+139,Unforgiven,http://www.rottentomatoes.com/m/13014,western,1992,1000000,1850000,96.0,93.0,130.0
+140,The Great Escape,http://www.rottentomatoes.com/m/17025,"war,drama",1963,57020001,484099808,94.0,95.0,172.0
+141,To Kill a Mockingbird,http://www.rottentomatoes.com/m/17873,drama,1962,57020001,490942209,92.0,92.0,129.0
+142,Fight Club,http://www.rottentomatoes.com/m/13153,"mysteryandthriller,drama",1999,37000000,57720000,84.0,96.0,139.0
+143,8½,http://www.rottentomatoes.com/m/18384,fantasy,1963,50700,430443,98.0,92.0,135.0
+144,Raise the Red Lantern,http://www.rottentomatoes.com/m/98818287,drama,1991,22600,43166,96.0,94.0,125.0
+145,Barry Lyndon,http://www.rottentomatoes.com/m/11717,drama,1975,57020001,275406605,91.0,92.0,184.0
+146,On the Waterfront,http://www.rottentomatoes.com/m/18179,drama,1954,57020001,550813210,99.0,95.0,108.0
+147,Raging Bull,http://www.rottentomatoes.com/m/15121,"drama,biography",1980,87300,274995,93.0,93.0,128.0
+148,The Cranes Are Flying,http://www.rottentomatoes.com/m/19363,"war,drama,romance",1957,17000,157250,96.0,94.0,95.0
+149,The Grapes of Wrath,http://www.rottentomatoes.com/m/18139,drama,1940,57020001,1058861419,100.0,88.0,129.0
+150,Rebecca,http://www.rottentomatoes.com/m/17080,mysteryandthriller,1940,57020001,1058861419,100.0,92.0,130.0
+151,The Bridge on the River Kwai,http://www.rottentomatoes.com/m/11175,"war,drama",1957,57020001,527435009,95.0,93.0,161.0
+152,Cool Hand Luke,http://www.rottentomatoes.com/m/18102,drama,1967,57020001,443615608,100.0,95.0,129.0
+153,A Streetcar Named Desire,http://www.rottentomatoes.com/m/10198,drama,1951,57020001,570200010,98.0,90.0,122.0
+154,Autumn Sonata,http://www.rottentomatoes.com/m/12336,drama,1978,57020001,227509804,84.0,92.0,97.0
+155,Nobody Knows,http://www.rottentomatoes.com/m/10385,drama,2004,683600,943368,93.0,93.0,140.0
+156,The Cabinet of Dr. Caligari,http://www.rottentomatoes.com/m/17201,horror,1920,57020001,741260013,100.0,89.0,69.0
+157,It Happened One Night,http://www.rottentomatoes.com/m/18256,romance,1934,57020001,1106188019,98.0,93.0,105.0
+158,La Dolce Vita,http://www.rottentomatoes.com/m/98829074,drama,1960,57020001,500635609,96.0,90.0,175.0
+159,The Wizard of Oz,http://www.rottentomatoes.com/m/9867,"musical,fantasy,kidsandfamily",1939,5500000,102850000,98.0,89.0,101.0
+160,Blade Runner,http://www.rottentomatoes.com/m/12886,"scifi,mysteryandthriller",1982,3900000,10491000,90.0,91.0,122.0
+161,Aparajito,http://www.rottentomatoes.com/m/20844,drama,1956,57020001,545111210,95.0,93.0,105.0
+162,Mary and Max,http://www.rottentomatoes.com/m/770799949,"drama,comedy,animation",2009,57020001,68994201,95.0,92.0,92.0
+163,All Quiet on the Western Front,http://www.rottentomatoes.com/m/17121,war,1930,57020001,887231216,98.0,89.0,105.0
+164,Throne of Blood,http://www.rottentomatoes.com/m/17149,drama,1957,57020001,527435009,95.0,94.0,108.0
+165,Limelight,http://www.rottentomatoes.com/m/9903,"drama,comedy",1952,57020001,559366210,97.0,90.0,145.0
+166,"Paris, Texas",http://www.rottentomatoes.com/m/12963,drama,1984,57020001,142550002,97.0,93.0,148.0
+167,Make Way for Tomorrow,http://www.rottentomatoes.com/m/770679142,drama,1937,57020001,1029211018,100.0,93.0,94.0
+168,The Tale of the Princess Kaguya,http://www.rottentomatoes.com/m/771372814,"fantasy,anime",2013,681100,762832,100.0,90.0,137.0
+169,Reservoir Dogs,http://www.rottentomatoes.com/m/14978,"drama,crime",1992,2500000,4625000,92.0,94.0,105.0
+170,Los Olvidados,http://www.rottentomatoes.com/m/326393979,drama,1950,57020001,614675611,90.0,95.0,88.0
+171,Ivan's Childhood,http://www.rottentomatoes.com/m/574255104,"war,drama",1962,57020001,490942209,100.0,93.0,97.0
+172,Memories of Murder,http://www.rottentomatoes.com/m/17410,"crime,mysteryandthriller,drama",2003,14100,19881,91.0,94.0,129.0
+173,Song of the Sea,http://www.rottentomatoes.com/m/771380456,"adventure,fantasy,animation",2014,85000,93500,99.0,92.0,94.0
+174,The Truman Show,http://www.rottentomatoes.com/m/10679,"drama,comedy",1998,125600000,199704000,95.0,89.0,102.0
+175,Forrest Gump,http://www.rottentomatoes.com/m/10036,"drama,comedy",1994,330300000,578025000,84.0,95.0,142.0
+176,Anatomy of a Murder,http://www.rottentomatoes.com/m/17143,"mysteryandthriller,drama,crime",1959,57020001,509188609,100.0,90.0,160.0
+177,La Haine,http://www.rottentomatoes.com/m/98832611,drama,1995,130300,222813,100.0,95.0,97.0
+178,The Man Who Shot Liberty Valance,http://www.rottentomatoes.com/m/17020,western,1962,57020001,490942209,94.0,92.0,122.0
+179,Le Samouraï,The url does not exist!,western,1967,57020001,443615608,94.0,92.0,122.0
+180,Day of Wrath,http://www.rottentomatoes.com/m/351525233,drama,1943,57020001,856440415,100.0,91.0,97.0
+181,Nausicaä of the Valley of the Wind,http://www.rottentomatoes.com/m/10085,"fantasy,anime",1984,57020001,142550002,88.0,91.0,95.0
+182,The Red Shoes,http://www.rottentomatoes.com/m/18709,"drama,romance",1948,57020001,614675611,97.0,92.0,133.0
+183,Napoleon,http://www.rottentomatoes.com/m/313938020,"history,biography,drama",1927,57020001,851878815,88.0,91.0,235.0
+184,Faces Places,The url does not exist!,"history,biography,drama",2017,57020001,60441201,88.0,91.0,235.0
+185,Grand Illusion,http://www.rottentomatoes.com/m/17990,"war,drama",1937,516500,9322825,97.0,92.0,117.0
+186,The Usual Suspects,http://www.rottentomatoes.com/m/16303,"crime,drama,mysteryandthriller",1995,22600000,38646000,89.0,96.0,105.0
+187,Sanjuro,http://www.rottentomatoes.com/m/11935,"adventure,action",1962,57020001,490942209,100.0,95.0,96.0
+188,The Hunt,http://www.rottentomatoes.com/m/771307311,drama,2012,611000,690430,93.0,93.0,110.0
+189,Se7en,http://www.rottentomatoes.com/m/22538,"mysteryandthriller,drama,crime",1995,100100000,171171000,84.0,95.0,125.0
+190,A Clockwork Orange,http://www.rottentomatoes.com/m/15694,"scifi,drama",1971,57020001,366068406,88.0,93.0,137.0
+191,Ratatouille,http://www.rottentomatoes.com/m/470554171,"comedy,animation,kidsandfamily",2007,206400000,258000000,96.0,88.0,111.0
+192,The Leopard,http://www.rottentomatoes.com/m/10649,"history,drama",1963,57020001,484099808,98.0,89.0,165.0
+193,The Exterminating Angel,http://www.rottentomatoes.com/m/381420161,"fantasy,drama,comedy",1962,57020001,490942209,93.0,93.0,92.0
+194,Room,The url does not exist!,"fantasy,drama,comedy",2015,57020001,62722001,93.0,93.0,92.0
+195,The Best Years of Our Lives,http://www.rottentomatoes.com/m/22292,drama,1946,57020001,760076613,97.0,93.0,172.0
+196,Trainspotting,http://www.rottentomatoes.com/m/16743,"drama,comedy",1996,16600000,27556000,91.0,93.0,94.0
+197,Monty Python and the Holy Grail,http://www.rottentomatoes.com/m/11450,comedy,1975,1800000,8694000,97.0,95.0,90.0
+198,Roman Holiday,http://www.rottentomatoes.com/m/18129,romance,1953,57020001,554804610,97.0,93.0,119.0
+199,Toy Story 2,http://www.rottentomatoes.com/m/9414,"adventure,fantasy,animation,kidsandfamily,comedy",1999,245900000,383604000,100.0,88.0,92.0
+200,The Elephant Man,http://www.rottentomatoes.com/m/10377,"biography,drama",1980,57020001,179613003,92.0,93.0,125.0
+201,Annie Hall,http://www.rottentomatoes.com/m/10183,romance,1977,57020001,244615804,98.0,92.0,93.0
+202,Before Sunrise,http://www.rottentomatoes.com/m/12919,romance,1995,4700000,8037000,100.0,93.0,101.0
+203,Forbidden Games,http://www.rottentomatoes.com/m/414769001,drama,1952,14000,137340,100.0,92.0,87.0
+204,Spotlight,The url does not exist!,drama,2015,14000,15400,100.0,92.0,87.0
+205,Castle in the Sky,http://www.rottentomatoes.com/m/17036,"fantasy,anime",1986,57020001,135137402,90.0,93.0,124.0
+206,Persepolis,http://www.rottentomatoes.com/m/770671982,"drama,animation",2007,4400000,5500000,96.0,92.0,95.0
+207,The Iron Giant,http://www.rottentomatoes.com/m/11685,"adventure,fantasy,animation,kidsandfamily",1999,57020001,88951202,96.0,90.0,86.0
+208,Oldboy,http://www.rottentomatoes.com/m/22533,mysteryandthriller,2003,707400,997434,84.0,94.0,118.0
+209,Children of Heaven,http://www.rottentomatoes.com/m/10741,drama,1997,925400,1499148,84.0,96.0,88.0
+210,A Short Film About Love,http://www.rottentomatoes.com/m/22427,romance,1988,57020001,125444002,95.0,93.0,86.0
+211,The Cameraman,http://www.rottentomatoes.com/m/335716406,comedy,1928,57020001,866704015,100.0,94.0,70.0
+212,Safety Last!,http://www.rottentomatoes.com/m/563562998,comedy,1923,57020001,866704015,97.0,93.0,74.0
+213,The Mother and the Whore,http://www.rottentomatoes.com/m/196119586,drama,1973,11200,65520,96.0,92.0,210.0
+214,There Will Be Blood,http://www.rottentomatoes.com/m/770671487,drama,2007,40200000,50250000,92.0,88.0,158.0
+215,Harry Potter and the Deathly Hallows: Part 2,http://www.rottentomatoes.com/m/770687943,"fantasy,adventure",2011,381000000,441960000,96.0,89.0,131.0
+216,Kind Hearts and Coronets,http://www.rottentomatoes.com/m/19034,"drama,comedy,crime",1949,35900,392028,100.0,94.0,104.0
+217,Beauty and the Beast,http://www.rottentomatoes.com/m/9980,"fantasy,animation,kidsandfamily",1991,219000000,418290000,94.0,92.0,84.0
+218,12 Years a Slave,http://www.rottentomatoes.com/m/771316210,"history,biography,drama",2013,56700000,63504000,95.0,90.0,134.0
+219,Howl's Moving Castle,http://www.rottentomatoes.com/m/75428742,"fantasy,anime",2004,57020001,78687601,87.0,93.0,119.0
+220,"Monsters, Inc.",http://www.rottentomatoes.com/m/9382,"fantasy,animation,kidsandfamily,adventure,comedy",2001,57020001,83819401,96.0,90.0,92.0
+221,In the Mood for Love,http://www.rottentomatoes.com/m/12154,"romance,drama",2000,2700000,4077000,90.0,94.0,97.0
+222,To Live,http://www.rottentomatoes.com/m/19013,drama,1994,2200000,3850000,86.0,96.0,125.0
+223,Three Colors: Blue,http://www.rottentomatoes.com/m/381422018,drama,1993,539200,970560,98.0,93.0,97.0
+224,Diabolique,http://www.rottentomatoes.com/m/17242,"mysteryandthriller,drama,horror",1955,57020001,553094010,96.0,93.0,116.0
+225,Close-Up,http://www.rottentomatoes.com/m/21255,drama,1990,57020001,113469802,88.0,89.0,90.0
+226,Werckmeister Harmonies,http://www.rottentomatoes.com/m/266727281,drama,2000,25500,38505,98.0,91.0,145.0
+227,Playtime,http://www.rottentomatoes.com/m/20767,comedy,1967,57020001,443615608,98.0,90.0,93.0
+228,A Woman Under the Influence,http://www.rottentomatoes.com/m/15567,drama,1974,57020001,300495405,90.0,92.0,155.0
+229,The Last Laugh,http://www.rottentomatoes.com/m/147815131,drama,1924,57020001,866704015,100.0,88.0,73.0
+230,The Conformist,http://www.rottentomatoes.com/m/136193252,drama,1970,57020001,382034007,98.0,90.0,115.0
+231,Ben-Hur,http://www.rottentomatoes.com/m/9402,"adventure,history,drama",1959,57020001,509188609,86.0,89.0,203.0
+232,Life Is Beautiful,http://www.rottentomatoes.com/m/10097,"drama,comedy",1997,57600000,93312000,84.0,96.0,122.0
+233,The Crowd,http://www.rottentomatoes.com/m/337758515,drama,1928,57020001,866704015,96.0,90.0,104.0
+234,The Hidden Fortress,http://www.rottentomatoes.com/m/19475,comedy,1958,57020001,512609809,97.0,93.0,139.0
+235,Before Sunset,http://www.rottentomatoes.com/m/12908,"drama,romance",2004,5800000,8004000,95.0,91.0,80.0
+236,Marriage Story,The url does not exist!,"drama,romance",2019,5800000,5916000,95.0,91.0,80.0
+237,Django Unchained,http://www.rottentomatoes.com/m/771245718,"drama,action,western",2012,162800000,183964000,87.0,91.0,165.0
+238,Network,http://www.rottentomatoes.com/m/16424,"drama,comedy",1976,57020001,260581405,91.0,93.0,121.0
+239,For a Few Dollars More,http://www.rottentomatoes.com/m/60565656,western,1965,57020001,470415008,91.0,94.0,132.0
+240,Pan's Labyrinth,http://www.rottentomatoes.com/m/343934933,"fantasy,drama,war",2006,37600000,48504000,95.0,91.0,120.0
+241,Viridiana,http://www.rottentomatoes.com/m/287449364,drama,1961,57020001,495503809,96.0,90.0,90.0
+242,The Last Picture Show,http://www.rottentomatoes.com/m/13338,drama,1971,57020001,366068406,100.0,90.0,118.0
+243,Ali: Fear Eats the Soul,http://www.rottentomatoes.com/m/347990353,"romance,drama",1974,57020001,300495405,100.0,91.0,94.0
+244,Incendies,http://www.rottentomatoes.com/m/771197495,drama,2010,6900000,8211000,93.0,92.0,130.0
+245,Full Metal Jacket,http://www.rottentomatoes.com/m/16673,"history,drama,war",1987,42900000,98241000,92.0,94.0,116.0
+246,Farewell My Concubine,http://www.rottentomatoes.com/m/13016,drama,1993,2500000,4500000,86.0,93.0,157.0
+247,Touch of Evil,http://www.rottentomatoes.com/m/17060,"mysteryandthriller,drama,crime",1958,57020001,512609809,95.0,92.0,95.0
+248,Fargo,http://www.rottentomatoes.com/m/104762093,"crime,comedy,drama,mysteryandthriller",1996,24500000,40670000,94.0,93.0,97.0
+249,Central Station,http://www.rottentomatoes.com/m/14037,drama,1998,6200000,9858000,94.0,95.0,110.0
