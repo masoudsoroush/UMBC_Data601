@@ -6,6 +6,7 @@ When it comes to movies, everyone has their favorites! Although looking for *bes
 
 ## Goals
 This project has three main goals:
+
 1.a. We identify the top 250 movies of all times according to the ranking of the website https://www.listchallenges.com/reel-stats-statistical-top-250-movies-of-all-time through *webscraping*. In this stage of the process, we collect the collect the following characteristics: Movie's Name, Production Year, and url of the movie in the rottentomatoes encyclopedia (https://www.rottentomatoes.com/).    
 
 
