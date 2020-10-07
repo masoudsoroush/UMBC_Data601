@@ -42,7 +42,10 @@ The above notebooks use the following libraries and python packages:
 2. 'BeautifulSoup' for webscraping
 3. The standard 'numpy', 'pandas', 'matplotlib', and 'seaborn'  libraries for data cleansing and data analysis
 
-
+## Data
+1. The outcome of the webscraping performed in HW-2-WebScraping.ipynb (step 1. of Navigation) is stored in '250-Best-Movies.csv' as a dataframe consisting 250 rows corresponding to the 250 best movies, and 8 columns capturing the characteristics of the movies.
+2. The outcome of the data cleansing performed in HW-2-Data-Cleansing.ipynb (step 2. of Navigation) is stored in 'Cleansed_Data.csv' as a new dataframe consisting 250 rows (corresponding to the top 250 movies), and 9 columns. The one extra column of the dataframe correcponds to the conversion of the value of the Box Office to the year 2020.
+3. 'CPI-Conversion.txt' consists of the CPI indecies of the past 100 years (*i.e.* 1920-2020) is used in the notebook HW-2-Data-Cleansing.ipynb. This simple text file has 100 rows corresponding to the past 100 years, and two columns capturing 'year' and 'CPI index'.
 
 
 
