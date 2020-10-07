@@ -36,7 +36,11 @@ Our study in this project reaches the following conclusions:
 2. In the second step, the notebook HW-2-Data-Cleansing.ipynb cleans the collected data in the file '250-Best-Movies.csv' (in accordance with Goals 2.) and stores the cleansed data in the new csv file 'Cleansed_Data.csv' (which is also available in this repository). This notebook uses a text file ('CPI-Conversion.txt' which is available in this repository) in which all the CPI/inflation indices have been stored.  
 3. In the final step, the notebook HW-2-DataAnalysis receives the data stored in 'Cleansed_Data.csv'. This notebook is responsible for the data analysis part of the task.
 
-
+## Software Requirements and Packages
+The above notebooks use the following libraries and python packages:
+1. requests for webscraping
+2. BeautifulSoup for webscraping
+3. The standard numpy, pandas, and matplotlib libraries for data cleansing and data analysis
 
 
 
