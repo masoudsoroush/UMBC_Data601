@@ -31,7 +31,8 @@ Our study in this project reaches the following conclusions:
 * The most productive decade of cinema during the past 100 years in terms of producing best movies is 1950-1960. After that, 1990-2000 is the second most productive decade of cinema. Interestingly, we find that 1930-1940, is the least productive decade for producing best movies! This period is coincidentally the period between Word War I and World War II.
 * The distribution of the Box Office values of the top 250 movies of all times reveals that in terms of the value of US dollar in 2020, the highest frequency belongs to the interval 0.5-0.6 Billion dollars.
 
-
+## Navigation
+1. The notebook HW-2-WebScraping.ipynb collects the data of the best 250 movies of all times (in accordance with Goals 1.a. and 1.b.) and stores the data in a the csv file 250-Best-Movies.csv.
 
 
 
