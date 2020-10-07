@@ -32,9 +32,9 @@ Our study in this project reaches the following conclusions:
 * The distribution of the Box Office values of the top 250 movies of all times reveals that in terms of the value of US dollar in 2020, the highest frequency belongs to the interval 0.5-0.6 Billion dollars.
 
 ## Navigation
-1. The notebook HW-2-WebScraping.ipynb collects the data of the best 250 movies of all times (in accordance with Goals 1.a. and 1.b.) and stores the data in the csv file '250-Best-Movies.csv' (which is also available in this repository).
-2. The notebook HW-2-Data-Cleansing.ipynb cleans the collected data in the file '250-Best-Movies.csv' (in accordance with Goals 2.) and stores the cleansed data in the new csv file 'Cleansed_Data.csv' (which is also available in this repository).
-3. 
+1. In the first step, the notebook HW-2-WebScraping.ipynb collects the data of the best 250 movies of all times (in accordance with Goals 1.a. and 1.b.) and stores the data in the csv file '250-Best-Movies.csv' (which is also available in this repository).
+2. In the second step, the notebook HW-2-Data-Cleansing.ipynb cleans the collected data in the file '250-Best-Movies.csv' (in accordance with Goals 2.) and stores the cleansed data in the new csv file 'Cleansed_Data.csv' (which is also available in this repository). This notebook uses a text file () in which all the CPI/inflation indices have been stored.  
+3. In the final step, the notebook HW-2-DataAnalysis receives the data stored in 'Cleansed_Data.csv'. This notebook is responsible for the data analysis part of the task.
 
 
 
