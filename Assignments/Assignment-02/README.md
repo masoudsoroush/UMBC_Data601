@@ -1,8 +1,8 @@
 # The Top 250 Movies of All Times
 ![](TopMovies.png)
 
-## Summary
-
+## Overview
+When it comes to movies, everyone has their favorites! Although looking for *best movies of all times* is to some extent a subjective matter, we would like to list the top 250 movies of all times through the past century (*i.e.* 1920-2019) based on the average ratings of both general and critic audiences of the movies.
 
 
 
