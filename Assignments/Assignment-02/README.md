@@ -28,7 +28,7 @@ By the end of this step, we will produce a dataframe consisting of 250 rows corr
 ## Conclusions
 Our study in this project reaches the following conclusions:
 * The shape of distributions of the Critic Ratings, and the Audience Ratings are qualitatively different. The Audience Ratings distribution tends to towards a symmetric distribution whereas the Critic Ratings distribution is completely left-skewed. 
-* The most productive decade of cinema during the past 100 years is 1950-1960. After that, 1990-2000 is the second most productive decade of cinema in terms of producing best movies. Interestingly, we find that 1930-1940, is the least productive decade for producing best movies! This period is coincidentally the period between Word War I and World War II.
+* The most productive decade of cinema during the past 100 years in terms of producing best movies is 1950-1960. After that, 1990-2000 is the second most productive decade of cinema. Interestingly, we find that 1930-1940, is the least productive decade for producing best movies! This period is coincidentally the period between Word War I and World War II.
 * The distribution of the Box Office values of the top 250 movies of all times reveals that in terms of the value of US dollar in 2020, the highest frequency belongs to the interval 0.5-0.6 Billion dollars.
 
 
@@ -43,3 +43,4 @@ Our study in this project reaches the following conclusions:
 ## References
 1. Movies Ranking Website: https://www.listchallenges.com/reel-stats-statistical-top-250-movies-of-all-time
 2. The Movie Encyclopedia Website: https://www.rottentomatoes.com/
+3. CPI/Inflation Index Website: https://www.usinflationcalculator.com/
