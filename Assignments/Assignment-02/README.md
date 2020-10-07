@@ -18,9 +18,13 @@ This project has three main goals:
   
 By the end of this step, we will produce a dataframe consisting of 250 rows corresponding to the top 250 movies of all times, and 8 columns corresponding to the above mentioned characteristics.
 
-2. After collecting all the necessary information in the previous step, we cleanse the data, and store it for the final analysis in step 3. In this process, there is however a nontrivial step. We would like to be able to compare the values of the *Box Office* of these 250 movies with each other. This comparison cannot be performed naively, as the box offices of different movies have been obtained in different years! To overcome this problem, we collect the value of US dollar in the past 100 years through the CPI index read (and stored as a txt file) from https://www.usinflationcalculator.com/.       
+2. After collecting all the necessary information in the previous step, we cleanse the data, and store it for the final analysis in step 3. In this process, there is however a nontrivial step. We would like to be able to compare the values of the *Box Office* of these 250 movies with each other. This comparison cannot be performed naively, as the box offices of different movies have been obtained in different years! To overcome this problem, we collect the value of US dollar in the past 100 years through the CPI index read (and stored as a txt file) from https://www.usinflationcalculator.com/. The CPI/inflation index allows us to convert the value of box office of all movies to the current value in 2020.       
 
-3. 
+3. In the final goal of this project is to analyze the few quantitaive variables of the top 250 movies of all times. We will specifically answer the following questions from the collected data in the previous steps:
+  * How are the Critic Ratings and Audience Ratings distributed? Does the shape of distribution of Critic Ratings necessarily agree with the shape of distribution of Audience Ratings?
+  * What decade in the previous century (*i.e.* 1920-2019) has been the most productive decade in terms of producing the best movies?
+  * How are the Box Office values for the top 250 movies of all times (*after converting all of them to their values in 2020*) distributed?
+  
 
 
 
