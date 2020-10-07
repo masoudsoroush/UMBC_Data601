@@ -12,13 +12,13 @@ This project has three main goals:
 1.b. For each of the 250 movies obtained from 1.a., we find the movie in the *rottentomates* website, and extract the following information through webscraping: 
   * Genre
   * Runtime (Movie's length)
-  * Box Office (*i.e.* how much the movie sold tickets in cinemas)
+  * Box Office (*i.e.* how much, in US dollars, the movie sold tickets in cinemas)
   * Critic Ratings (The average rating given by the critics of rottentomatoes)
   * Audience Ratings (The average rating given by general auidience)
   
 By the end of this step, we will produce a dataframe consisting of 250 rows corresponding to the top 250 movies of all times, and 8 columns corresponding to the above mentioned characteristics.
 
-2. After collecting all the necessary information in the previous step, we cleanse the data, and store it for the final analysis.  
+2. After collecting all the necessary information in the previous step, we cleanse the data, and store it for the final analysis in step 3. In this process, there is however a nontrivial step. We would like to be able to compare the values of the *Box Office* of these 250 movies with each other. This comparison cannot be performed naively, as the box offices of different movies have been obtained in different years! To overcome this problem, we collect the value of US dollar in the past 100 years through the CPI index read (and stored as a txt file) from https://www.usinflationcalculator.com/.       
 
 3. 
 
