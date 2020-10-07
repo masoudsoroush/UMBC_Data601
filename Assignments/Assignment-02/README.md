@@ -38,9 +38,9 @@ Our study in this project reaches the following conclusions:
 
 ## Software Requirements and Packages
 The above notebooks use the following libraries and python packages:
-1. requests for webscraping
-2. BeautifulSoup for webscraping
-3. The standard numpy, pandas, and matplotlib libraries for data cleansing and data analysis
+1. 'requests' for webscraping
+2. 'BeautifulSoup' for webscraping
+3. The standard 'numpy', 'pandas', 'matplotlib', and 'seaborn'  libraries for data cleansing and data analysis
 
 
 
