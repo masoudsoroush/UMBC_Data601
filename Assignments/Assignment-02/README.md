@@ -17,6 +17,8 @@ This project has three main goals:
   * Audience Ratings (The average rating given by general auidience)
   
 
+
+
 2. After collecting all the necessary information in the previous step, we cleanse the data, and store it for the final analysis in step 3. In this process, there is however a nontrivial step. We would like to be able to compare the values of the *Box Office* of these 250 movies with each other. This comparison cannot be performed naively, as the box offices of different movies have been obtained in different years! To overcome this problem, we collect the value of US dollar in the past 100 years through the CPI index read (and stored as a txt file) from https://www.usinflationcalculator.com/. The CPI/inflation index allows us to convert the value of box office of all movies to the current value in 2020.       
 
 3. In the final goal of this project is to analyze the few quantitaive variables of the top 250 movies of all times. We will specifically answer the following questions from the collected data in the previous steps:
