@@ -33,8 +33,8 @@ Our study in this project reaches the following conclusions:
 * The shape of distributions of the Critic Ratings, and the Audience Ratings are qualitatively different. The Audience Ratings distribution tends to towards a symmetric distribution whereas the Critic Ratings distribution is completely left-skewed. 
 * The most productive decade of cinema during the past 100 years in terms of producing best movies is 1950-1960. After that, 1990-2000 is the second most productive decade of cinema. Interestingly, we find that 1930-1940, is the least productive decade for producing best movies! This period is coincidentally the period between Word War I and World War II.
 * The distribution of the Box Office values of the top 250 movies of all times reveals that in terms of the value of US dollar in 2020, the highest frequency belongs to the interval 0.5-0.6 Billion dollars.
-* The mean value for the runtime of the top 250 movies of all times happens to be 125 minutes.
-* The average of Box Office values of the top 250 movies of all times (converted to its equivalent value in the year 2020) is approximately 323 million USD.
+* The mean value for the runtime of the top 250 movies of all times happens to be *125 minutes*.
+* The average of Box Office values of the top 250 movies of all times (converted to its equivalent value in the year 2020) is approximately *323 million USD*.
 
 ## Navigation
 1. In the first step, the notebook HW-2-WebScraping.ipynb collects the data of the best 250 movies of all times (in accordance with Goals 1.a. and 1.b.) and stores the obtained data in the csv file '250-Best-Movies.csv' (which is also available in this repository). By the end of this step, we will produce a dataframe consisting of 250 rows corresponding to the top 250 movies of all times, and 8 columns corresponding to the above mentioned characteristics.
