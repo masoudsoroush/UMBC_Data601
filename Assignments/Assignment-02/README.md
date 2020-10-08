@@ -16,7 +16,6 @@ This project has three main goals:
   * Critic Ratings (The average rating given by the critics of rottentomatoes)
   * Audience Ratings (The average rating given by general auidience)
   
-By the end of this step, we will produce a dataframe consisting of 250 rows corresponding to the top 250 movies of all times, and 8 columns corresponding to the above mentioned characteristics.
 
 2. After collecting all the necessary information in the previous step, we cleanse the data, and store it for the final analysis in step 3. In this process, there is however a nontrivial step. We would like to be able to compare the values of the *Box Office* of these 250 movies with each other. This comparison cannot be performed naively, as the box offices of different movies have been obtained in different years! To overcome this problem, we collect the value of US dollar in the past 100 years through the CPI index read (and stored as a txt file) from https://www.usinflationcalculator.com/. The CPI/inflation index allows us to convert the value of box office of all movies to the current value in 2020.       
 
@@ -32,7 +31,7 @@ Our study in this project reaches the following conclusions:
 * The distribution of the Box Office values of the top 250 movies of all times reveals that in terms of the value of US dollar in 2020, the highest frequency belongs to the interval 0.5-0.6 Billion dollars.
 
 ## Navigation
-1. In the first step, the notebook HW-2-WebScraping.ipynb collects the data of the best 250 movies of all times (in accordance with Goals 1.a. and 1.b.) and stores the data in the csv file '250-Best-Movies.csv' (which is also available in this repository).
+1. In the first step, the notebook HW-2-WebScraping.ipynb collects the data of the best 250 movies of all times (in accordance with Goals 1.a. and 1.b.) and stores the data in the csv file '250-Best-Movies.csv' (which is also available in this repository). By the end of this step, we will produce a dataframe consisting of 250 rows corresponding to the top 250 movies of all times, and 8 columns corresponding to the above mentioned characteristics.
 2. In the second step, the notebook HW-2-Data-Cleansing.ipynb cleans the collected data in the file '250-Best-Movies.csv' (in accordance with Goals 2.) and stores the cleansed data in the new csv file 'Cleansed_Data.csv' (which is also available in this repository). This notebook uses a text file ('CPI-Conversion.txt' which is available in this repository) in which all the CPI/inflation indices have been stored.  
 3. In the final step, the notebook HW-2-DataAnalysis receives the data stored in 'Cleansed_Data.csv'. This notebook is responsible for the data analysis part of the task.
 
