@@ -9,7 +9,7 @@ This project has three main goals:
 
 1.a. We identify the top 250 movies of all times according to the ranking of the website https://www.listchallenges.com/reel-stats-statistical-top-250-movies-of-all-time through *webscraping*. In this stage of the process, we collect the following characteristics: Movie's Name, Production Year, and url of the movie in the rottentomatoes encyclopedia (https://www.rottentomatoes.com/). 
 
-1.b. For each of the 250 movies obtained from 1.a., we find the movie in the *rottentomates* website, and extract the following information through webscraping: 
+1.b. For each of the 250 movies obtained from 1.a., we find the movie in the *rottentomates* website, and extract the following information about the movie by  webscraping: 
   * Genre
   * Runtime (Movie's length)
   * Box Office (*i.e.* how much, in US dollars, the movie sold tickets in cinemas)
