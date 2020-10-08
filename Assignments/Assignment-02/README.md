@@ -2,7 +2,7 @@
 ![](TopMovies.png)
 
 ## Overview
-When it comes to movies, everyone has their favorites! Although looking for *best movies of all times* is to some extent a subjective matter, we would like to list the top 250 movies of all times produced in the past century (*i.e.* 1920-2019) based on the average ratings of both general and critic audiences of the movies. We will be collecting and analyzing the qualitative as well as some quantitative characteristics of these movies.
+When it comes to movies, everyone has their favorites! Although looking for *best movies of all times* is to some extent a subjective matter, we would like to list the top 250 movies of all times produced in the past century (*i.e.* 1920-2019) based on the average ratings of both general and critic audiences of the movies. We will be collecting and analyzing the qualitative as well as some quantitative characteristics of the 250 collected movies.
 
 ## Goals
 This project has three main goals:
