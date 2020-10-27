@@ -20,3 +20,8 @@ We will use the following python libraries:
 - For data wrangling, we use the standard *pandas* and *numpy* libraries.
 - For data visualization and plotting, we use the standard *matplotlib* and *seaborn* libraries, as well as *mlxtend* library.
 - For data training and logistic regression, we use various features of *scikit learn* library. 
+
+## Data Resources
+1. Main source of data for Seattle's weather is found at kaggle.com through the following link:<br> 
+https://www.kaggle.com/rtatman/did-it-rain-in-seattle-19482017?select=seattleWeather_1948-2017.csv
+2. NC Climate Office for Types of Precipitations: https://climate.ncsu.edu/edu/PrecipTypes
