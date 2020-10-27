@@ -9,3 +9,7 @@ The major weather indicators of Seattle's weather have been recorded for more th
 In this project, we perform logistic regression at different levels:
 
 1. We will first perform a supervised learning through logistic regression model by treating the maximum temperature ('TMAX') and the minimum temperature ('TMIN') as the two only features of our model. The boolean rain variable ('RAIN') will be regarded as our categorical target variable. We will perform a *binary logistic regression with two features* on our data set, and we will explore the success of our model.
+
+2. We will add one more feature to our model, and we will perform a *binary logistic regression with three features*. The new feature is built from the date ('DATE') variable. We will do this in two ways. As we will see, the second way (we call it The More Refined Approach) will lead to a better performance of the model.
+
+3. We will perform a multinominal logistic regression. We will use the precipitation variable of our dataset to create 4 classes (instead of only two classes rainy, and not rainy) for our taget variable. The four classes are No Rain, Light Rain, Moderate Rain, and Heavy Rain
