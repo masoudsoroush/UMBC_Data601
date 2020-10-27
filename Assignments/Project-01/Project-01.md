@@ -14,6 +14,23 @@ In this project, we perform logistic regression at different levels:
 
 3. We will perform a multinominal logistic regression. We will use the precipitation variable of our dataset to create 4 classes (instead of only two classes rainy, and not rainy) for our taget variable. The four classes are: No Rain, Light Rain, Moderate Rain, and Heavy Rain. We will perform the multinomial logistic regression both with two and three features.
 
+## Conclusions and Possible Future Directions
+At the end of our analysis, we draw the following conclusions:
+
+  1. As is observed by the decision regions plots, the data is highly degenerate. Nonetheless, the binary logistic regression is predicting the class of the target variable for 75% of the test data.
+  
+  2. When a third feature is correctly added (*i.e.* consistent with the nature of the logistics regression as we saw in section 2.1.3.) to the analysis of binary logistic regression, the decision regions are less degenerate, and the rate of the correct predictions for the test data slightly improves. 
+  
+  3. When more classes added to the model, the rate of the correct predictions for test data drops by at least 15%. This is an indicator of the fact that the multiclass model is very complex, and one cannot optimally analyze the model with only very few features. Perhaps, adding more variables/features such as the air pressure, the speed and the direction of the wind would improve the analysis. However, it is worth noticing that when we add our third feature (*i.e.* FREQUENCY), we do see a slightly better performance, just as the case of the binary analysis.
+  
+
+It would be interesting to extend our analysis in future in two different directions:
+
+
+  1. The logistic regression analysis we performed here is based on the sigmoid function. It would be interesting to perform a similar modeling with other bounded functions that one can take into consideration.
+  
+  2. It would be interesting to examine other machine learning algorithms (different from logistic regression) on the same dataset and compare the performances of different models.
+
 ## Software and Packages
 We will use the following python libraries:
 
@@ -21,7 +38,7 @@ We will use the following python libraries:
 - For data visualization and plotting, we use the standard *matplotlib* and *seaborn* libraries, as well as *mlxtend* library.
 - For data training and logistic regression, we use various features of *scikit learn* library. 
 
-## Data Resources
+## Data Resources and References 
 1. Main source of data for Seattle's weather is found at kaggle.com through the following link:<br> 
 https://www.kaggle.com/rtatman/did-it-rain-in-seattle-19482017?select=seattleWeather_1948-2017.csv
 2. NC Climate Office for Types of Precipitations: https://climate.ncsu.edu/edu/PrecipTypes
