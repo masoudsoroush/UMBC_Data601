@@ -12,4 +12,11 @@ In this project, we perform logistic regression at different levels:
 
 2. We will add one more feature to our model, and we will perform a *binary logistic regression with three features*. The new feature is built from the date ('DATE') variable. We will do this in two ways. As we will see, the second way (we call it The More Refined Approach) will lead to a better performance of the model.
 
-3. We will perform a multinominal logistic regression. We will use the precipitation variable of our dataset to create 4 classes (instead of only two classes rainy, and not rainy) for our taget variable. The four classes are No Rain, Light Rain, Moderate Rain, and Heavy Rain
+3. We will perform a multinominal logistic regression. We will use the precipitation variable of our dataset to create 4 classes (instead of only two classes rainy, and not rainy) for our taget variable. The four classes are: No Rain, Light Rain, Moderate Rain, and Heavy Rain. We will perform the multinomial logistic regression both with two and three features.
+
+## Software and Packages
+We will use the following python libraries:
+
+- For data wrangling, we use the standard *pandas* and *numpy* libraries.
+- For data visualization and plotting, we use the standard *matplotlib* and *seaborn* libraries, as well as *mlxtend* library.
+- For data training and logistic regression, we use various features of *scikit learn* library. 
