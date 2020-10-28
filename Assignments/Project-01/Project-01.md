@@ -30,6 +30,11 @@ It would be interesting to extend our analysis in future in two different direct
   1. The logistic regression analysis we performed here is based on the sigmoid function. It would be interesting to perform a similar modeling with other bounded functions that one can take into consideration.
   
   2. It would be interesting to examine other machine learning algorithms (different from logistic regression) on the same dataset and compare the performances of different models.
+ 
+## Navigation
+1. The main notebook which represents our logistic regression analysis is Seattle's_Weather.ipynb.
+2. The functions that will be used in above notebook have been stored in the functions.py file. For convenience, a ipynb version of this file has been added to this repository as well. 
+3. Our dataset file 'SeattleWeather.csv' is accessible as a csv file.
 
 ## Software and Packages
 We will use the following python libraries:
