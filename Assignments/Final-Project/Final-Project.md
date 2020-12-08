@@ -21,3 +21,15 @@ In this project, we aim to achieve the following goals:
 
 Most people know good nutrition and physical activity can help maintain a healthy weight. But the benefits of good nutrition go beyond just weight. Having a good understanding of the nutrition factors and applying this knowledge in decision making when it comes to foods can have an immense impact in one's physical and mental health. However, the problem is that there are too many food items and too many food nutrients! Also, not all nutrients are on equal footing! Therefore, picking the most relevant factors and classifying the food items according to picked nutrients is of vital importance.
 
+## Conclusions
+
+Let us list the key findings of the analysis performed in this project:
+
+ 1. Starting from 23 food nutrients for 8618 food items, we were able to reduce the number of variables to 10 new features, using the PCA algorithm. In this reduction, we were able to maintain 80% of the total variance.
+ 
+ 2. The properties of the 10 new features -- each of which is a linear combination of the old 23 food nutrients -- were studied in detail. We found to what nutrients each new feature is most sensitive to, and we also found the food category distribution of the 200 richest food items in terms of each of the new feature. 
+ 
+ 3. Using the Elbow Method, we figured out the optimal number of k-means clusters for the 8618 food items. We saw that among the different choices of metric, the usual Euclidean metric provides the most reliable answer to the number of optimal clusters.
+ 
+ 4. Finally, we studied the important properties of the k-means clusters. We found the size of each cluster, and we observed that there were a few large clusters as well as some very small insignificant clusters.
+
