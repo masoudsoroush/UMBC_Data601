@@ -23,7 +23,7 @@ Most people know good nutrition and physical activity can help maintain a health
 
 ## Conclusions
 
-Let us list the key findings of the analysis performed in this project:
+We list the key findings of the analysis performed in this project:
 
  1. Starting from 23 food nutrients for 8618 food items, we were able to reduce the number of variables to 10 new features, using the PCA algorithm. In this reduction, we were able to maintain 80% of the total variance.
  
@@ -32,4 +32,12 @@ Let us list the key findings of the analysis performed in this project:
  3. Using the Elbow Method, we figured out the optimal number of k-means clusters for the 8618 food items. We saw that among the different choices of metric, the usual Euclidean metric provides the most reliable answer to the number of optimal clusters.
  
  4. Finally, we studied the important properties of the k-means clusters. We found the size of each cluster, and we observed that there were a few large clusters as well as some very small insignificant clusters.
+ 
+## Possible Future Directions
+
+It would be interesting to consider the following directions for further future studies:
+
+  1. The PCA analysis we used in this project defines new features as a *linear combination* of the old features. It would be interesting to see if a nonlinear analysis (*e.g.* through Kernel PCA or other means) would provide a way to capture the same (or even a higher) level of variance with less number of new features.
+  
+  2. It would be interesting to enhance our input dataset by considering different diet habits exercised by different groups of people in order to make predictions about different health characteristics (*e.g.* weight, different diseases such as heart disease and etc.) of the population of the considered group. Clearly, the current dataset is insufficient for that purpose, and this goal can thought as a part of a much wider project with perhaps different scopes.
 
