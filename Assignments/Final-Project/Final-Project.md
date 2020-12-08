@@ -6,7 +6,7 @@
 
 -- **What is the problem?**
 
-We focus on a large number of food items ($8618$ items) and their different food nutrients ($23$ nutrients). Our goal in this project is twofold. First, we desire to only focus on a smaller subset of the food nutrients. Not all of the food ingredients are equally important. Using PCA, we would like to find a subset of the $23$ nutrients which is responsible for the major part of the variation in the food nutrients. Second, after reducing the number of features (*i.e.* food nutrients), we would like to classify the $8618$ food items into a number of clusters, using k-means clustering algorithm.  
+We focus on a large number of food items (8618 items) and their different food nutrients (23 nutrients). Our goal in this project is twofold. First, we desire to only focus on a smaller subset of the food nutrients. Not all of the food ingredients are equally important. Using PCA, we would like to find a subset of the 23 nutrients which is responsible for the major part of the variation in the food nutrients. Second, after reducing the number of features (*i.e.* food nutrients), we would like to classify the 8618 food items into a number of clusters, using k-means clustering algorithm.  
 
 -- **Metrics of Success**
 
