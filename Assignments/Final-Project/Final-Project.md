@@ -21,6 +21,12 @@ In this project, we aim to achieve the following goals:
 
 Most people know good nutrition and physical activity can help maintain a healthy weight. But the benefits of good nutrition go beyond just weight. Having a good understanding of the nutrition factors and applying this knowledge in decision making when it comes to foods can have an immense impact in one's physical and mental health. However, the problem is that there are too many food items and too many food nutrients! Also, not all nutrients are on equal footing! Therefore, picking the most relevant factors and classifying the food items according to picked nutrients is of vital importance.
 
+## Navigation
+1. The main notebook which includes our methodology, analysis and results is available through Technical_notebook.ipynb.
+2. The functions that will be used in above notebook have been stored in the functions.py file. For convenience, a ipynb version of this file has been added to this repository as well. 
+3. Our dataset file 'nndb_flat.csv' is accessible as a csv file.
+4. A pdf file sr28_doc.pdf provides more information on how the data has been collected by the U.S. Department of Agriculture.
+
 ## Conclusions
 We list the key findings of the analysis performed in this project:
 
