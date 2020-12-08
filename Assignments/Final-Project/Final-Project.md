@@ -5,9 +5,11 @@
 ## Overview
 
 -- **What is the problem?**
+
 We focus on a large number of food items (8618 items) and their different food nutrients (23 nutrients). Our goal in this project is twofold. First, we desire to only focus on a smaller subset of the food nutrients. Not all of the food ingredients are equally important. Using PCA, we would like to find a subset of the 23 nutrients which is responsible for the major part of the variation in the food nutrients. Second, after reducing the number of features (*i.e.* food nutrients), we would like to classify the 8618 food items into a number of clusters, using k-means clustering algorithm.  
 
 -- **Metrics of Success**
+
 In this project, we aim to achieve the following goals:
 
    1. *Reducing the number of food ingredients*: Using PCA, we reduce the number of features (food nutrients in this context) to a smaller subset so that the a large portion of variance is still captured.
@@ -16,6 +18,7 @@ In this project, we aim to achieve the following goals:
    4. *Understanding the properties of the clusters*: We would like to obtain a good understanding of the clusters. Among many factors, we intend to determine the size of each cluster, the food items in each cluster, and whether or not some clusters will be more significant than others.
    
 **-- Why is this project important?**
+
 Most people know good nutrition and physical activity can help maintain a healthy weight. But the benefits of good nutrition go beyond just weight. Having a good understanding of the nutrition factors and applying this knowledge in decision making when it comes to foods can have an immense impact in one's physical and mental health. However, the problem is that there are too many food items and too many food nutrients! Also, not all nutrients are on equal footing! Therefore, picking the most relevant factors and classifying the food items according to picked nutrients is of vital importance.
 
 ## Conclusions
@@ -44,3 +47,23 @@ We will use the following python libraries:
    - For implementing data standardization, PCA and KMeans clustering, we use several components of *scikit learn* library.
    - For the implementation of the Elbow Method (in order to figure out the optimal number of k-means clusters), we use the *yellowbrick* library.
 
+## Data Resources and References
+**-- Who collected the original data**
+
+The original data has been collected and published by USDA (**U.S. Department of Agriculture**). This dataset is freely available at USDA website (see the link below). This data (which is available in txt format) has been converted to tabular format by **data.world** and is freely available as a csv file (see the link below).
+
+**-- When is the data collected?**
+
+The latest version of the dataset (which has been used in this project) has been published at UDSA website in **May 2016**.
+
+**-- Characteristics of the Dataset**
+
+The latest version of the dataset (SR28) has been converted to a single *csv file* (of 3.76 MB size) by  **data.world**, and this is the version we will be using in this project. The tabular data has 8618 rows and 45 columns (corresponding to the 45 features). The data has missing values in only 3 columns that collect scientific names of the food items and these variables will play no role in our analysis. 
+
+**-- Links to Data Resources**
+
+  1. The original USDA dataset can be found at https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/methods-and-application-of-food-composition-laboratory/mafcl-site-pages/  *under SR11-SR28* (choose SR28 the latest release).
+  
+  2. The converted csv file can be found in **data.world** at https://data.world/craigkelly/usda-national-nutrient-db. To access the csv file, click on nndb_flat.csv at the bottom of the page.
+  
+  3. A pdf file sr28_doc.pdf (created by USDA) is available at author's Github link if one desires to obtain a deeper understanding of the variables/features and how they were collected. 
